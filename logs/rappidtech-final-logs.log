@@ -1,0 +1,19 @@
+2024-03-04T21:27:02,965 [main] INFO  (Logger.java:112) - [TestNG] Running:
+  C:\Users\Fatima Amjad\AppData\Local\JetBrains\IdeaIC2023.2\temp-testng-customsuite.xml
+
+2024-03-04T21:27:03,047 [main] INFO  (TestBase.java:22) - Setting up the driver
+2024-03-04T21:27:03,049 [main] INFO  (ConfigurationReader.java:19) - Loading the property file...
+2024-03-04T21:27:03,051 [main] INFO  (ConfigurationReader.java:41) - Getting the property key {browserType} from the property file
+2024-03-04T21:27:03,057 [main] INFO  (Driver.java:49) - Starting a Chrome browser
+2024-03-04T21:27:04,341 [main] INFO  (WebDriverManager.java:1217) - Using chromedriver 121.0.6167.184 (resolved driver for Chrome 121)
+2024-03-04T21:27:04,373 [main] INFO  (WebDriverManager.java:1270) - Exporting webdriver.chrome.driver as C:\Users\Fatima Amjad\.cache\selenium\chromedriver\win64\121.0.6167.184\chromedriver.exe
+2024-03-04T21:27:06,669 [main] INFO  (ConfigurationReader.java:41) - Getting the property key {url} from the property file
+2024-03-04T21:27:07,109 [main] INFO  (LoginPage.java:47) - Entering username: {standard_user} into the username field
+2024-03-04T21:27:07,350 [main] INFO  (LoginPage.java:56) - Entering password: {secret_sauce} into the password field
+2024-03-04T21:27:07,538 [main] INFO  (LoginPage.java:64) - Clicking on submit button
+2024-03-04T21:27:07,651 [main] INFO  (MainPage.java:80) - Checking if Main Logo is displayed or not
+2024-03-04T21:27:07,712 [main] INFO  (MainPage.java:89) - Getting href from Twitter Logo
+2024-03-04T21:27:07,760 [main] INFO  (MainPage.java:98) - Getting href from Facebook Logo
+2024-03-04T21:27:07,812 [main] INFO  (MainPage.java:107) - Getting href from LinkedIn Logo
+2024-03-04T21:27:07,866 [main] INFO  (TestBase.java:33) - Closing the driver...
+2024-03-04T21:27:07,867 [main] INFO  (Driver.java:64) - Closing the browser
